@@ -19,8 +19,10 @@ p {
   font-family: Arial
 }
 
+/* UI Designer */
 div {
-  background-color: darkcyan;
+  background-color: blue;
   text-align: right;
 }
 
+/* Front-End Dev */
